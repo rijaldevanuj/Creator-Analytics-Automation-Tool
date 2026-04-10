@@ -1,0 +1,17 @@
+2026-04-03 18:27:27,441 - __main__ - INFO - ============================================================
+2026-04-03 18:27:27,441 - __main__ - INFO - Data Cleaning Pipeline Started
+2026-04-03 18:27:27,442 - __main__ - INFO - ============================================================
+2026-04-03 18:27:27,442 - __main__ - INFO - Loading raw data from C:\Users\ASUS\OneDrive\Documents\Projects\Creator-Intelligence\data\raw_data.csv
+2026-04-03 18:27:27,453 - __main__ - INFO - Loaded 1200 rows and 9 columns
+2026-04-03 18:27:27,453 - __main__ - INFO - Starting data cleaning process
+2026-04-03 18:27:27,462 - __main__ - INFO - Date column converted successfully
+2026-04-03 18:27:27,465 - __main__ - INFO - Numeric columns converted
+2026-04-03 18:27:27,467 - __main__ - INFO - Data cleaning complete. Final dataset: 1200 rows
+2026-04-03 18:27:27,467 - __main__ - INFO - Starting feature engineering
+2026-04-03 18:27:27,469 - __main__ - INFO - Engagement and performance metrics calculated
+2026-04-03 18:27:27,472 - __main__ - INFO - Time features extracted
+2026-04-03 18:27:27,476 - __main__ - INFO - Performance categories assigned
+2026-04-03 18:27:27,492 - __main__ - INFO - Cleaned data saved to C:\Users\ASUS\OneDrive\Documents\Projects\Creator-Intelligence\data\cleaned_data.csv
+2026-04-03 18:27:27,492 - __main__ - INFO - Output shape: 1200 rows × 17 columns
+2026-04-03 18:27:27,493 - __main__ - INFO - ============================================================
+2026-04-03 18:27:27,496 - __main__ - INFO - ============================================================

@@ -1,0 +1,19 @@
+# Data Cleaning Configuration
+data:
+  raw_data_path: "data/raw_data.csv"
+  cleaned_data_path: "data/cleaned_data.csv"
+  
+logging:
+  level: "INFO"
+  log_file: "logs/data_cleaning.log"
+
+processing:
+  numeric_columns:
+    - views
+    - likes
+    - comments
+    - shares
+    - watch_time
+    - followers_gained
+  min_views: 0
+  engagement_categories: 3
